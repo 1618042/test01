@@ -11,8 +11,6 @@ import com.ibm.watson.developer_cloud.text_to_speech.v1.model.SynthesizeOptions;
 import com.ibm.watson.developer_cloud.text_to_speech.v1.util.WaveUtils;
 
 public class TexttoSpeech {
-
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

@@ -17,7 +17,7 @@ public class TexttoSpeech {
 		// TODO Auto-generated method stub
 
 		TextToSpeech synthesizer = new TextToSpeech();
-		synthesizer.setUsernameAndPassword("ce1c1baa-b3c8-41d7-a1ee-ffdf0e0dfcef", "Rb6Rt10sz03Q");
+		synthesizer.setUsernameAndPassword("1618042", "1618042");
 		String translation = "ç°ì˙ÇÕó«Ç¢ìVãCÇ≈Ç∑ÇÀÅB";
 		SynthesizeOptions synthesizeOptions = new SynthesizeOptions.Builder()
 			       .text(translation)
